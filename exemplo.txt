@@ -1,0 +1,7 @@
+{
+  "Id": "1",
+  "Title": "Inception",
+  "Year": 2010,
+  "Video": "data:video/mp4;base64,AAAA...==",
+  "Thumb": "data:image/jpeg;base64,AAAA...=="
+}
